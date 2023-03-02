@@ -1,8 +1,18 @@
 # $\mathcal{O}$-GNN: Incorporating Ring Priors into Molecular Modeling
 
-This repository contains the code for *$\mathcal{O}$-GNN: Incorporating Ring Priors into Molecular Modeling*.
+This repository contains the code for [$\mathcal{O}$-GNN: Incorporating Ring Priors into Molecular Modeling](https://openreview.net/forum?id=5cFfz6yMVPU), which is introduced in ICLR2023.
 
-
+If you find this work helpful in your research, please cite as:
+```
+@inproceedings{
+zhu2023mathcalognn,
+title={\${\textbackslash}mathcal\{O\}\$-{GNN}: incorporating ring priors into molecular modeling},
+author={Jinhua Zhu and Kehan Wu and Bohan Wang and Yingce Xia and Shufang Xie and Qi Meng and Lijun Wu and Tao Qin and Wengang Zhou and Houqiang Li and Tie-Yan Liu},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=5cFfz6yMVPU}
+}
+```
 ## Requirements and Installation
 - PyTorch
 - Torch-Geometric
